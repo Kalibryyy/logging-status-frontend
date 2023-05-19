@@ -1,0 +1,13 @@
+.header {
+  margin: 0 auto;
+  padding: 10px 25px;
+  min-height: 56px;
+  background-color: #FFFFFF;
+}
+
+.logo {
+  background-image: url('../../assets/logo.svg');
+  background-repeat: no-repeat;
+  height: 35px;
+  width: 130px;
+}
